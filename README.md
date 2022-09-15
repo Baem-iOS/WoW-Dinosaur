@@ -10,7 +10,7 @@
 
 
 
-## #1. ✌️Member
+#1. ✌️Member
 #### Members and Github Address
  |  | Github Address|
  | -- | -----------------|
