@@ -3,11 +3,10 @@
 
 
 ## 📜목차
-[Member](#1-✌️Member)
-[Role](#2.-Role)
-[Lecture](#3.-Lecture)
-[Contents](#4.-table-of-contents)
-
+1. [Member](#1-✌️Member)
+2. [Role](#2.-Role)
+3. [Lecture](#3.-Lecture)
+4. [Contents](#4.-table-of-contents)
 
 
 # 1. ✌️Member
