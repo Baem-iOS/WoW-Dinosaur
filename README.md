@@ -2,10 +2,10 @@
 ##### (wow! Dinosaur!!!) 
 
 ## 📜 목차
-1. [Member](#_Member)
-2. [Role](#_Role)
-3. [Lecture](#_Lecture)
-4. [Contents](#_table-of-contents)
+1. [Member](#Member)
+2. [Role](#Role)
+3. [Lecture](#Lecture)
+4. [Contents](#table-of-contents)
 
 ## 👭 Member
 #### Members and Github Address
