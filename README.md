@@ -1,15 +1,13 @@
 # 🦕 우와! 공룡이다!!!!
 ##### (wow! Dinosaur!!!) 
 
-
 ## 📜 목차
-1. [Member](#1__Member)
-2. [Role](#2.-Role)
-3. [Lecture](#3.-Lecture)
-4. [Contents](#4.-table-of-contents)
+1. [Member](#Member)
+2. [Role](#Role)
+3. [Lecture](#Lecture)
+4. [Contents](#table-of-contents)
 
-
-## 1. Member
+## 👭Member
 #### Members and Github Address
  |  | Github Address|
  | -- | -----------------|
@@ -22,13 +20,13 @@
  | 🎱 |[Woong](https://github.com/ios-woong)|
 
 
-# 2. Role
+# 📓 Role
 1. 모든 정보들은 Discussion 활용하도록 한다.
 2. 매주 화요일 금요일 9시에 스터디(강의)진행
 3. 매주 하루 각 주마다 토의 진행 (일정 추후 의논)
 
 
-# 3. Lecture
+# ⌨ Lecture
 
 | 혼자 공부하는 컴퓨터 구조 운영체제 | 공룡책 |
 | ---------- | ------------------------ |
@@ -42,7 +40,7 @@
 
 
 
-# 4. table of contents
+# 📘 table of contents
 
 ### Due to : 22. 10. 31.
 ### 혼자 공부하는 컴퓨터 구조 운영체제
