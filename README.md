@@ -9,7 +9,7 @@
 4. [Contents](#4.-table-of-contents)
 
 
-## 1.Member
+## 1. Member
 #### Members and Github Address
  |  | Github Address|
  | -- | -----------------|
