@@ -3,7 +3,7 @@
 
 
 ## 📜 목차
-1. [Member](#1_Member)
+1. [Member](#1__Member)
 2. [Role](#2.-Role)
 3. [Lecture](#3.-Lecture)
 4. [Contents](#4.-table-of-contents)
