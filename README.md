@@ -4,7 +4,7 @@
 
 ## 📜 목차
 1. [Member](#-Member)
-2. [Role](#-Role)
+2. [Rule](#-Rule)
 3. [Lecture](#-Lecture)
 4. [Contents](#-table-of-contents)
 
@@ -22,7 +22,7 @@
  | 🎱 |[Woong](https://github.com/ios-woong)|
 
 
-# 📓 Role
+# 📓 Rule
 1. 모든 정보들은 Discussion 활용하도록 한다.
 2. 매주 화요일 금요일 9시에 스터디(강의)진행
 3. 매주 하루 각 주마다 토의 진행 (일정 추후 의논)
